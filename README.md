@@ -31,9 +31,10 @@ You will learn how to:
 ## How to Run
 
 ### 1. Create the Database
-```sql
+SQL
 CREATE DATABASE ecommerce;
 USE ecommerce;
 
+**ANALYSIS**
 <img width="859" alt="image" src="https://github.com/user-attachments/assets/857ba9b5-4b11-49ab-b7a0-ee5899048ffd" />
 
